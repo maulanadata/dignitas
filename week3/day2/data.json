@@ -1,0 +1,67 @@
+{
+  "biodata": [
+    {
+      "id": 1,
+      "nama_depan": "John",
+      "nama_belakang": "Cena",
+      "umur": 30,
+      "alamat": "Jl. Jendral Sudirman No. 1, Jakarta",
+      "pekerjaan": "Petarung WWE",
+      "poin_kemenangan": [
+        92,
+        91,
+        94,
+        96,
+        89
+      ],
+      "menikah": true,
+      "hobi": [
+        "Gelut",
+        "Bermain Game"
+      ],
+      "nama_lengkap": "John Cena"
+    },
+    {
+      "id": 2,
+      "nama_depan": "Brock",
+      "nama_belakang": "Lesnar",
+      "umur": 40,
+      "alamat": "Jl. Dewi Sartika No. 2, Jakarta",
+      "pekerjaan": "Petarung WWE",
+      "poin_kemenangan": [
+        91,
+        87,
+        95,
+        85,
+        86
+      ],
+      "menikah": true,
+      "hobi": [
+        "Gelut",
+        "Membaca Komik"
+      ],
+      "nama_lengkap": "Brock Lesnar"
+    },
+    {
+      "id": 3,
+      "nama_depan": "Rey",
+      "nama_belakang": "Mysterio",
+      "umur": 26,
+      "alamat": "Jl. Kapitan Pattimura No. 6, Jakarta",
+      "pekerjaan": "Petarung WWE",
+      "poin_kemenangan": [
+        95,
+        86,
+        94,
+        96,
+        92
+      ],
+      "menikah": false,
+      "hobi": [
+        "Gelut",
+        "Ngoding"
+      ],
+      "nama_lengkap": "Rey Mysterio"
+    }
+  ]
+}

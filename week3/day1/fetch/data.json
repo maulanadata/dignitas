@@ -1,0 +1,124 @@
+{
+  "biodata": [
+    {
+      "id": 1,
+      "nama": "John Doe",
+      "umur": 30,
+      "alamat": "Jl. Jendral Sudirman No. 1, Jakarta",
+      "pekerjaan": "Software Engineer",
+      "menikah": true,
+      "hobi": [
+        "Membaca",
+        "Bermain Game"
+      ]
+    },
+    {
+      "id": 2,
+      "nama": "Jane Doe",
+      "umur": 25,
+      "alamat": "Jl. Merdeka No. 5, Bandung",
+      "pekerjaan": "Dokter",
+      "menikah": false,
+      "hobi": [
+        "Memasak",
+        "Berkebun"
+      ]
+    },
+    {
+      "id": 3,
+      "nama": "Bard",
+      "umur": 34,
+      "alamat": "Google AI",
+      "pekerjaan": "Large Language Model",
+      "hobi": [
+        "Membaca",
+        "Menulis"
+      ]
+    },
+    {
+      "id": 4,
+      "nama": "Budi",
+      "umur": 20,
+      "alamat": "Jl. Kemang No. 10, Jakarta",
+      "pekerjaan": "Mahasiswa",
+      "menikah": false,
+      "hobi": [
+        "Bermain Bola",
+        "Nonton Film"
+      ]
+    },
+    {
+      "id": 5,
+      "nama": "Ani",
+      "umur": 18,
+      "alamat": "Jl. Margonda No. 20, Depok",
+      "pekerjaan": "Pelajar",
+      "menikah": false,
+      "hobi": [
+        "Mendengarkan Musik",
+        "Menulis Puisi"
+      ]
+    },
+    {
+      "id": 6,
+      "nama": "Dedi",
+      "umur": 40,
+      "alamat": "Jl. Kalimalang No. 30, Bekasi",
+      "pekerjaan": "Pengusaha",
+      "menikah": true,
+      "hobi": [
+        "Bermain Golf",
+        "Mancing"
+      ]
+    },
+    {
+      "id": 7,
+      "nama": "Edi",
+      "umur": 50,
+      "alamat": "Jl. Juanda No. 40, Surabaya",
+      "pekerjaan": "Pensiunan",
+      "menikah": true,
+      "hobi": [
+        "Membaca Koran",
+        "Bermain Catur"
+      ]
+    },
+    {
+      "id": 8,
+      "nama": "Fadi",
+      "umur": 60,
+      "alamat": "Jl. Hasanudin No. 50, Makassar",
+      "pekerjaan": "Guru",
+      "menikah": true,
+      "hobi": [
+        "Bernyanyi",
+        "Melukis"
+      ]
+    },
+    {
+      "id": 9,
+      "nama": "Gina",
+      "umur": 70,
+      "alamat": "Jl. Sudirman No. 60, Denpasar",
+      "pekerjaan": "Ibu Rumah Tangga",
+      "menikah": true,
+      "hobi": [
+        "Memasak",
+        "Berkebun"
+      ]
+    },
+    {
+      "id": 10,
+      "nama": "Asep",
+      "umur": 85,
+      "alamat": "Jl. Ratna Dewi No. 02, Bandung",
+      "pekerjaan": "Bapak Rumah Tangga",
+      "hobi": [
+        "mancing",
+        "ghibah",
+        "game",
+        "tidur"
+      ]
+    }
+  ]
+}
